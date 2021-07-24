@@ -10,6 +10,10 @@ This page is a start but I also might make a video series, or split it up into b
 
 Also the teaser trailer is cool: [YouTube (lower quality)](https://www.youtube.com/watch?v=3ayxeruAan8) • [Discord (higher quality)](https://cdn.discordapp.com/attachments/737054779582185522/864051484203286529/nocomment_teaser_trailer.mp4)
 
+Also if you want to see very cool timelapses / renders of nocom data look at these two youtube channels
+* [https://www.youtube.com/c/MLGaeming/videos](https://www.youtube.com/c/MLGaeming/videos)
+* [https://www.youtube.com/user/mcmichiel2307/videos](https://www.youtube.com/user/mcmichiel2307/videos)
+
 ## Corrections to Fit's video
 * It did not cause an "out of memory" on 2b2t, but rather tick lag to the point where the PaperMC watchdog process would print out the stacktrace. Not a big deal though since the end result is the same (server crashes with stacktrace).
 * Fit implies that it was never used to lag / queue skip, but it was used that way as early as Feb 2018.

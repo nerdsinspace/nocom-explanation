@@ -4,8 +4,6 @@ I'm going to share more information about nocom here, the parts that didn't make
 
 This page is a start but I also might make a video series, or split it up into blog posts, or both, or just generally make it higher effort (such as including graphics / examples / videos / images / code / etc), so check back here later if that sounds interesting to you. I haven't done so yet because my focus has been on making sure that the Fit video is good and accurate and such.
 
-Page last updated at unix 1627153919
-
 # Suggested prereqs
 
 [The FitMC video](https://www.youtube.com/watch?v=elqAh3GWRpA)

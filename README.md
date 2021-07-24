@@ -17,7 +17,7 @@ Also if you want to see very cool timelapses / renders of nocom data look at the
 ## Corrections to Fit's video
 * It did not cause an "out of memory" on 2b2t, but rather tick lag to the point where the PaperMC watchdog process would print out the stacktrace. Not a big deal though since the end result is the same (server crashes with stacktrace).
 * Fit implies that it was never used to lag / queue skip, but it was used that way as early as Feb 2018.
-* The order of events around BibleBot is incorrect, BibleBot was only locked in late 2020, more than a year AFTER Hause implemented the first packet limit. Not a big deal though.
+* The order of events around BibleBot is incorrect, BibleBot was only locked in late 2020, more than a year AFTER Hause implemented the first packet limit. Not a big deal though. Perhaps this was god's way of showing that he was upset with this exploit. We'll never know for sure though.
 * I (leijurv) was only brought on in 2020. He didn't say explicitly, but he implied 2019.
 * Remote viewing was actually possible from the very beginning. For example, while it was implied that the dipper nation remote viewing screenshots were from my system, they were actually from the earlier method of simply clicking every block in the chunk. This was known and used from day 1, I cannot take credit for it. In fact, I wouldn't be told about nocom until over a year after those posts.
 

@@ -181,3 +181,8 @@ So that's how the slurper ended up with a table of over ten billion blocks, form
 * Interesting human psychology things such as the massive flurry of bases RIGHT after hitting 100k or 1 million (on any axis)
 * Visual patterns in the heatmap (long straight lines in the nether from boatphase, squares in the overworld from elytra stashfinder / world downloader)
 
+The half million block wide view again:
+![Image](rect_4k.png)
+
+(okay actually it's X = -245760 to X = +245759 on horizontal, and Z = -138240 to Z = -138239 on vertical, those numbers being chosen because at this size, 3840x2160, one pixel comes out to exactly 8x8 chunks, which is very close to 2b2t's render distance, 9x9. so one pixel is basically one render distance. but it's much cooler to just call it the "half million block wide view" or round up to "-250k OW to +250k OW")
+

@@ -138,7 +138,7 @@ Once we get a hit from one of the scanners, we turn to the tracky tracky manager
 
 All of these hits and tracks are stored to the database. Every single time we get a response from 2b2t of "HIT" (this chunk is loaded), we save it to a giant table of hits. We've had over three billion of these. Each hit is also associated optionally with a track. This is what makes the data useful. Every track is assigned an ID. When a track switches modes from monte carlo to stationary and back, we don't change the track ID. But when a new track has to be started, such as when they change dimensions, it gets a new ID. To keep track of that, each track gets a "previous track id". This allows us to trace back the history of how people have traveled.
 
-A hit is as simple as an ID number, coordinate, server ID (almost always 1, for 2b2t, but we've briefly ran this on 9b and constantiam too), dimension, track id (optional), and whether or not it's legacy. Legacy is almost always false, it's just for the hits we imported from the 2018 / 2019 era. There are about three billion of these.
+A hit is as simple as an ID number, coordinate, server ID (almost always 1, for 2b2t, but we've briefly ran this on 9b and constantiam too), dimension, track id (optional), and whether or not it's legacy. Legacy is almost always false, it's just for the hits we imported from the 2018 / 2019 era.
 
 A track is a bit more complicated, it has an ID of its own, the ID of the first hit in this track, the ID of the most recent hit in this track (this is updated constantly), the timestamp of that most recent hit, the dimension and server ID, the previous track ID, and again whether or not it's legacy. There are about ten million of these.
 

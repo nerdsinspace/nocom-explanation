@@ -65,6 +65,8 @@ That last bit is what this patch does. If you attempt to mine a block that's una
 
 So this is known and desirable behavior on the part of 2b2t, it's just that not many people thought of intentionally going outside one's render distance to extract information. The realization is that you can click absolutely any block, anywhere on the server, even a million blocks away, and learn if it's currently a loaded chunk, by if the server responds to you or remains silent.
 
+Using common sense, the Paper developers _intended_ for this patch to reply to the player only if the chunks were loaded _by **your** player_, as that would make logical sense (that's all the blocks you could reasonably be digging in good faith). The problem is that the way the code was written, the server will reply to you if the chunk is loaded _by **any** player_ on the server, which is clearly an unintended side effect.
+
 # How it was exploited by us
 
 ## Spiral

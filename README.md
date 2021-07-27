@@ -26,6 +26,13 @@ Also if you want to see very cool timelapses / renders of nocom data look at the
 
 Other than that it is **essentially perfectly accurate**, Fit did an impressively good job editing it all together with all the media and such that we dumped on him. This video is different from most because the script was edited for clarity and technical correctness by all of us, and we worked closely together, such as making certain heatmap renders and timelapses based on what Fit wanted to show and talk about.
 
+## Is my base compromised by nocom?
+Did you:
+* Spend a nontrivial amount of time logged in at the base (leaving its chunks loaded) from mid July 2018 to August-ish 2019? (and the base is within the first few million out from spawn)
+* Travel to the base (at any distance from spawn) by any means other than teleporting, from late March 2020 to early July 2021? (such as by walking, elytra flying, boat phasing, anything)
+
+If either of those is true, then more likely than not, yes it's in the database.
+
 # The entire thing summed up in three sentences
 
 The exploit allows us to ask 2b2t "Is the block at **this** coordinate in a currently loaded chunk?" and get an immediate yes or no answer.

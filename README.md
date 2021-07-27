@@ -184,7 +184,7 @@ So that's how the slurper ended up with a table of over ten billion blocks, form
 The half million block wide view again:
 ![Image](rect_4k.png)
 
-(okay actually it's X = -245760 to X = +245759 on horizontal, and Z = -138240 to Z = -138239 on vertical, those numbers being chosen because at this size, 3840x2160, one pixel comes out to exactly 8x8 chunks, which is very close to 2b2t's render distance, 9x9. so one pixel is basically one render distance. but it's much cooler to just call it the "half million block wide view" or round up to "-250k OW to +250k OW")
+(okay actually it's X = -245760 to X = +245759 on horizontal, and Z = -138240 to Z = +138239 on vertical, those numbers being chosen because at this size, 3840x2160, one pixel comes out to exactly 8x8 chunks, which is very close to 2b2t's render distance, 9x9. so one pixel is basically one render distance. but it's much cooler to just call it the "half million block wide view" or round up to "-250k OW to +250k OW")
 
 * Why leak the heatmap to 250k?
 Answer: The other group that knew about the packet spiraled out to at least 266k (that was the furthest axis I saw in the first leak video). It turns out that that is pretty close to 3840x2160 at 1 pixel = 1 chunk, nether (`3840/2*8*16 = 245k`). So, it is aesthetically pleasing, and everything in this range has perhaps already been found by another group. So, everything sent to Fit, and the image shown here, are limited to 250k overworld and the equivalent 31.25k nether. That's why the heatmap that he showed cut off at 31,250 blocks nether-side. We think this strikes a good balance between showing cool stuff and not leaking everything in existence.

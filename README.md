@@ -87,7 +87,7 @@ With the ratelimit, we needed a smarter system. It was no longer practical to ha
 * Start by clicking the axes and diagonal highways every once in a while, to catch players traveling
 * Keep up with them as they travel on the highway, as they turn off and travel to their base/stash/wherever, and tell the overworld bot to check that dimension once they disappear from the nether
 * Keep track of how long they spend in each area, if it's 90 minutes in one area and far away from spawn / highways, count that as a base
-* Start downloading bases by incrementally clicking the blocks in it, one at a time, looking for differences from vanilla terrain gen at that location
+* Start downloading bases by incrementally clicking the blocks in it, one at a time, looking for and then expanding upon any differences from vanilla terrain gen at that location
 * Store all this in a giant Postgres database (by the end, 1.7 terabytes, 13.5 billion rows)
 * Use the data for web UI, queries, reports, etc. (e.g. print out bases with the most chests, travel to them ingame, steal all the items)
 

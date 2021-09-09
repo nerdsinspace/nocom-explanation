@@ -7,6 +7,8 @@ This page is a start but I also might make a video series, or split it up into b
 Here's the -250k to +250k overworld heatmap at 4K resolution:
 ![Image](rect_4k.png)
 
+And [here](https://commons.wikimedia.org/wiki/File:2b2t_Nocom_Overworld_Heatmap.png) is 8K resolution.
+
 # Suggested prereqs
 
 [The FitMC video](https://www.youtube.com/watch?v=elqAh3GWRpA)

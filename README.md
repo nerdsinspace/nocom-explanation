@@ -2,6 +2,8 @@
 
 I'm going to share more information about nocom here, the parts that didn't make sense to put into a Fit script.
 
+<ins>**This writeup assumes you have already watched [this YouTube video](https://www.youtube.com/watch?v=elqAh3GWRpA). It won't make sense if you haven't.**</ins>
+
 **Edit 7 July 2021: I started writing the wiki page [here](https://2b2t.miraheze.org/wiki/Nocom)**
 
 **Edit 8 Feb 2022: I made the source code of nocomment-master public [here](https://github.com/nerdsinspace/nocomment-master)**

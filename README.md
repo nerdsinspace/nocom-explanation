@@ -10,6 +10,8 @@ I'm going to share more information about nocom here, the parts that didn't make
 
 **Edit 17 April 2024: [Next coordinate exploit: Randar](https://github.com/spawnmason/randar-explanation)**
 
+**Edit 25 April 2024: [All Nocom data has been released in a torrent](torrent.md)**
+
 Here's the -250k to +250k overworld heatmap at 4K resolution:
 ![Image](rect_4k.png)
 
@@ -210,3 +212,5 @@ Answer: The other group that knew about the packet spiraled out to at least 266k
 Proof of twitter: https://twitter.com/leijurv
 
 Check out what the Grafana dashboard looked like by the end: https://www.dropbox.com/s/ktlvvtmppq64u8o/trimmed%20grafana%202.mov?dl=0
+
+[All Nocom data has been released in a torrent](torrent.md)

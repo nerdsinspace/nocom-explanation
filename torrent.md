@@ -1,5 +1,7 @@
 Click [here](https://github.com/nerdsinspace/nocom-explanation/raw/main/nocom.torrent) to download the torrent file!
 
+Magnet link: `magnet:?xt=urn:btih:6ZKW7CZTDTLTB7T6VYGUBTITT3YHG2OS&dn=nocom&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337` (click [here](https://tinyurl.com/nocomtorrent) for a tinyurl redirect to the magnet link)
+
 In this data you can see hundreds of thousands of players being tracked at 1-second intervals. Tens of thousands of bases were downloaded, totaling over ten billion logged block events. It's a fascinating slice of life, essentially a year of history of thousands of anarchy Minecraft bases, updated at 15 minute intervals. [Here's](https://www.youtube.com/watch?v=QxOg4djjJks) an example of a timelapse made from that data, for one such base. [Here's](https://www.youtube.com/watch?v=5FiUjdgwG-Q&list=PLOxa3ecQg7Kixbh1ZXrxJpmoIUUJxy_fv&index=2) another and [another](https://www.youtube.com/watch?v=Zuu3gUOyxV0&list=PLOxa3ecQg7Kixbh1ZXrxJpmoIUUJxy_fv&index=3) and [another](https://www.youtube.com/watch?v=QZgnUbMuFL0).
 
 The format is human-readable SQL dumps, compressed using gzip.

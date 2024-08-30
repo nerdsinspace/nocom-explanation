@@ -211,6 +211,6 @@ Answer: The other group that knew about the packet spiraled out to at least 266k
 
 Proof of twitter: https://twitter.com/leijurv
 
-Check out what the Grafana dashboard looked like by the end: https://www.dropbox.com/s/ktlvvtmppq64u8o/trimmed%20grafana%202.mov?dl=0
+Check out what the Grafana dashboard looked like by the end: https://www.youtube.com/watch?v=wEh0bBv-0Vs
 
 [All Nocom data has been released in a torrent](torrent.md)

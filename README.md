@@ -21,7 +21,7 @@ And [here](https://commons.wikimedia.org/wiki/File:2b2t_Nocom_Overworld_Heatmap.
 
 [The FitMC video](https://www.youtube.com/watch?v=elqAh3GWRpA)
 
-Also the teaser trailer is cool: [YouTube (lower quality)](https://www.youtube.com/watch?v=3ayxeruAan8) • [Discord (higher quality)](https://cdn.discordapp.com/attachments/737054779582185522/864051484203286529/nocomment_teaser_trailer.mp4)
+Also the teaser trailer is cool: [YouTube (lower quality)](https://www.youtube.com/watch?v=3ayxeruAan8) • [Discord (higher quality)](nocomment_teaser_trailer.mp4)
 
 Also if you want to see very cool timelapses / renders of nocom data look at these two youtube channels
 * [MLGaeming](https://www.youtube.com/playlist?list=PLOxa3ecQg7Kixbh1ZXrxJpmoIUUJxy_fv)
